@@ -1,16 +1,48 @@
-### Hi there 👋
+<h1 align="center">Hi 👋 I'm Jordan Muhammad Habibillah Ariswandi</h1>
+<h3 align="center">A passionate Backend Developer</h3>
 
-<!--
-**JagoanJor/JagoanJor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently studying **Computer Science**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently working as a **Backend Developer Intern** at **PT Mixtra Inti Tekindo**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at **My Github Repository**
+
+<h3 align="left">Languages:</h3>
+<p align="left">
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="" taget="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+  <a href="" taget="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="" taget="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="" taget="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="" taget="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="" taget="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+</p>
+<h3 align="left">Framework:</h3>
+<p align="left">
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/laravel.svg" alt="laravel" width="40" height="40"/>
+  </a>
+  <a href="" taget="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/jordan-mha/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="linked-in" height="30" width="40" /></a>
+  <a href="mailto: jordan.cike@gmail.com" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" alt="gmail" height="30" width="40" /></a>
+</p>
