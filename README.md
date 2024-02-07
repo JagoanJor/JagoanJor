@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 I'm Jordan Muhammad Habibillah Ariswandi</h1>
 <h3 align="center">A passionate Backend Developer</h3>
 
-- 🔭 I’m currently studying **Computer Science**
+- 🔭 I’m currently studying **Computer Science** at **Bina Nusantara University**
 
 - 🌱 I’m currently working as a **Backend Developer Intern** at **PT Mixtra Inti Tekindo**
 
-- 👨‍💻 All of my projects are available at **My Github Repository**
+- 👨‍💻 All of my projects are available at [***My Github Repository***](https://github.com/JagoanJor?tab=repositories)
 
 <h3 align="left">Languages:</h3>
 <p align="left">
